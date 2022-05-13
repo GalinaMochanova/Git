@@ -132,13 +132,14 @@ esc
   ```
  vim new.xml
  i
- 
-<first_name>Galina</first_name>
-<last_name>Molchanova</last_name>
-<middle_name>Alexandrovna</middle_name>
-<age>31</age>
-<number_of_pets>1</number_of_pets>
-<salary>500</salary>
+ <resume>
+   <first_name>Galina</first_name>
+   <last_name>Molchanova</last_name>
+   <middle_name>Alexandrovna</middle_name>
+   <age>31</age>
+   <number_of_pets>1</number_of_pets>
+   <salary>500</salary>
+ </resume>
 
 esc
 :wq 
@@ -156,11 +157,14 @@ esc
  ```
 vim preferences.xml
 i
-<favorite_movie>What_dreams_may_come</favorite_movie>
-<favorite_series>Friends</favorite_series>
-<favorite_food>meat</favorite_food>
-<favorite_season>spring</favorite_season>
-<country>Germany</country>
+
+<preferences>
+   <favorite_movie>What_dreams_may_come</favorite_movie>
+   <favorite_series>Friends</favorite_series>
+   <favorite_food>meat</favorite_food>
+   <favorite_season>spring</favorite_season>
+   <country>Germany</country>
+</preferences>
 
 esc
 :wq
@@ -171,11 +175,14 @@ esc
  touch slills.xml
  vim skills.xml
  i
-<skill_1>basic_theory_of_testing</skill_>
-<skill_2>client_server_architecture</skill_2>
-<skill_3>json_xml</skill_3>
-<skill_4>Api_testing"</skill_4>
-<skill_5>Devtools</skill_5>
+ 
+ <skills>
+   <skill_1>basic_theory_of_testing</skill_>
+   <skill_2>client_server_architecture</skill_2>
+   <skill_3>json_xml</skill_3>
+   <skill_4>Api_testing"</skill_4>
+   <skill_5>Devtools</skill_5>
+</skills>
 
 esc
 :wq
