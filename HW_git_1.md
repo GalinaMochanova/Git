@@ -67,7 +67,7 @@ esc
  11. Создать файл skills.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON:
   ```
  touch skills.json
- vim slills.json
+ vim skills.json
  i
  
  {
@@ -172,7 +172,7 @@ esc
 
  28. Создать файл sklls.xml добавить информацию о скиллах которые будут изучены на курсе в формате XML
   ```
- touch slills.xml
+ touch skills.xml
  vim skills.xml
  i
  
