@@ -132,6 +132,7 @@ esc
   ```
  vim new.xml
  i
+ <?xml version="1.0"?>
  <resume>
    <first_name>Galina</first_name>
    <last_name>Molchanova</last_name>
@@ -158,6 +159,7 @@ esc
 vim preferences.xml
 i
 
+<?xml version="1.0"?>
 <preferences>
    <favorite_movie>What_dreams_may_come</favorite_movie>
    <favorite_series>Friends</favorite_series>
@@ -176,6 +178,7 @@ esc
  vim skills.xml
  i
  
+ <?xml version="1.0"?>
  <skills>
    <skill_1>basic_theory_of_testing</skill_>
    <skill_2>client_server_architecture</skill_2>
