@@ -11,7 +11,7 @@
 - Синхронизация внешнего и локального репозиториев
 
 --- 
-Задание можно посмотреть в файле [HW_git_1.md](https://github.com/GalinaMochanova/Git/blob/main/HW_git_1.md)
+Выполнение задания по Git commands можно посмотреть [тут](https://github.com/GalinaMochanova/Git/blob/main/HW_git_1.md)
 
 ---
 Выполнение задания по Git branches можно посмотреть [тут](https://github.com/GalinaMochanova/Git_2)
