@@ -83,7 +83,8 @@ esc
  ```
  12. Отправить сразу 2 файла на внешний репозиторий
   ```
- git commit -am "add 2  files perferences, skills.json"
+ git add .
+ git commit -m "add 2  files perferences, skills.json"
  git push
   ```
  13. На веб интерфейсе создать файл bug_report.json
